@@ -1,2 +1,2 @@
-# jpmckeown.github.io
-web
+# JP McKeown portfolio
+
