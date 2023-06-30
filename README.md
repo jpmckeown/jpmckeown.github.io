@@ -1,1 +1,4 @@
-Portfolio data visualisations
+Portfolio 
+data visualisations
+text corpus analysis
+social network analysis
